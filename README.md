@@ -48,7 +48,7 @@
 
 
 ## Contact
-    Created by [@willingsan] - feel free to contact Sanat Srivastava!
+    Created by Shraddha Jaiswal & Sanat Srivastava!
 
 
 ## License
